@@ -10,4 +10,4 @@ https://medium.com/the-handbook-of-coding-in-finance/stock-prices-prediction-usi
 
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning
 
-https://www.mlq.ai/price-prediction-with-linear-regression/
+**https://www.mlq.ai/price-prediction-with-linear-regression/**
